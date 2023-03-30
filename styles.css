@@ -1,0 +1,39 @@
+body
+{
+    
+background: linear-gradient(0deg, rgba(20,213,139,1) 0%, rgba(12,213,160,1) 100%);
+}
+img
+{
+    height:150px;
+    width:150px;
+    border-radius:50%;
+}
+hr
+{
+    border-style:none;
+}
+h1
+{
+    color:#06ff40;
+}
+h3
+{
+    color: #06ff40;
+}
+b
+{
+    color: #06ff40;
+}
+p
+{
+    color:#d4570a;
+}
+.EQ
+{
+    color:#0d0eda;
+}
+#skills
+{
+    color:#d40aed;
+}
